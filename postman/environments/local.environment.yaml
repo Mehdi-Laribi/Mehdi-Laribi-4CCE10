@@ -1,0 +1,6 @@
+name: local
+values:
+  - key: baseUrl
+    value: ''
+    disabled: true
+color: 0
